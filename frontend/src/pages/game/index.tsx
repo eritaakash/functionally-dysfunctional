@@ -155,7 +155,7 @@ const GameScreen = () => {
                     />
 
                     <button onClick={() => {
-                        scripts.games.flipCoin(+(slotRef.current as any).value);
+                        scripts.games.slotMachine(+(slotRef.current as any).value);
                         if (slotRef.current) slotRef.current.value = '';
                     }}>Spin</button>
                 </div>
