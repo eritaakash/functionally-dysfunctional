@@ -1,6 +1,6 @@
 > 🌟 This repository is created as a "Functionally Dysfunctional" project for the [Coding with Lewis' Hackathon.](https://hackathon.lewismenelaws.com/)
 
-![Currency Game Next.js](https://raw.githubusercontent.com/eritaakash/functionally-dysfunctional/main/assets/readme-img.png)
+![Currency Game Next.js](https://raw.githubusercontent.com/eritaakash/functionally-dysfunctional/main/assets/readme-img-short.png)
 
 <div align="center">
     <b><a href="https://currency-game.vercel.app/">⤻ Visit the Game Website →</a></b>
