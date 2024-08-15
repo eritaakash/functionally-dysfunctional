@@ -2,6 +2,10 @@
 
 ![Currency Game Next.js](https://raw.githubusercontent.com/eritaakash/functionally-dysfunctional/main/assets/readme-img.png)
 
+<div align="center">
+    <b><a href="https://currency-game.vercel.app/">⤻ Visit the Game Website →</a></b>
+</div>
+
 # Virtual Currency Game
 
 This is a virtual currency game made with `Next.js`; inspired by those games of classical discord bots like Dank Memer, OwO, CashBot, etc. But i the game has a twist - **Your balance mysteriosly decreases over time!** Continue reading to find out.
