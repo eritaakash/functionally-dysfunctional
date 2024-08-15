@@ -1,5 +1,7 @@
 > 🌟 This repository is created as a "Functionally Dysfunctional" project for the [Coding with Lewis' Hackathon.](https://hackathon.lewismenelaws.com/)
 
+![Currency Game Next.js](https://raw.githubusercontent.com/eritaakash/functionally-dysfunctional/main/assets/readme-img.png)
+
 # Virtual Currency Game
 
 This is a virtual currency game made with `Next.js`; inspired by those games of classical discord bots like Dank Memer, OwO, CashBot, etc. But i the game has a twist - **Your balance mysteriosly decreases over time!** Continue reading to find out.
