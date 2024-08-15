@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Grey+Qo&family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+
+:root {
+    --bg-index: #22223b;
+    --text-index: #f2e9e4;
+
+    --clip-div-color-1: #8c9a8e;
+    --clip-div-color-2: #9a8c8c;
+
+    --error-color: #fb6f92;
+    --success-color: #2ec4b6;
+
+    --text-game-p: #edf2f4;
+    --bg-game-card: #2b2d42;
+    
+    --text-game-s: #8d99ae;
+}
+
+body {
+    height: 100dvh;
+    width: 100%;
+
+    background: var(--bg-index);
+}
+
+* {
+    padding: 0;
+    margin: 0;
+
+    font-family: 'DM Sans', sans-serif;
+    box-sizing: border-box;
+}
+
+body > div {
+    height: 100%;
+    width: 100%;
+}

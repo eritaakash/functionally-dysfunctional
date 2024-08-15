@@ -1,0 +1,19 @@
+.clipDiv1 {
+    clip-path: polygon(49% 47%, 80% 0%, 69% 35%, 100% 80%, 56% 63%, 44% 78%, 38% 54%, 13% 34%);
+
+    height: 15rem;
+    aspect-ratio: 1;
+
+    max-width: 90%;
+    background: linear-gradient(45deg, var(--clip-div-color-1), var(--clip-div-color-2));
+}
+
+.clipDiv2 {
+    clip-path: polygon(45% 46%, 80% 0%, 80% 38%, 57% 66%, 56% 63%, 5% 84%, 38% 54%, 6% 61%);
+
+    height: 15rem;
+    aspect-ratio: 1;
+
+    max-width: 90%;
+    background: linear-gradient(45deg, var(--clip-div-color-1), var(--clip-div-color-2));
+}
