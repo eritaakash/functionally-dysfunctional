@@ -62,7 +62,7 @@ const SlotMachine = (amount: number, balanceCtx: any, historyCtx: any) => {
         return null;
     }
 
-    const win = Math.random() > 0.5 ? amount*5 : -amount*5;
+    const win = Math.random() < 0.25 ? amount*5 : -amount*5;
 
     setBalance({
         ...balance,
